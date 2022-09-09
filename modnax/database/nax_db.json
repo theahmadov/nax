@@ -1,0 +1,37 @@
+{
+    "names" : ["thesaderror","zed"],
+    
+    "count" : 2,
+
+    "token" : {
+        "nax|-dZNKM$7d7w9K9QUMI66h34eZR1OPt*5Bcbm3A94Zx!@v&DzCJo|||thesaderror" : { 
+            "nickname": "thesaderror",
+            "role": "void",
+            "color": "red",
+            "banned" : "false"
+        },
+        "nax|-fu3NojpltRbG0gnlTnSecu8R8f7Ux!C39W6fB&2ZaH7bBMT*qa|||zed" : {
+            "nickname": "zed",
+            "role": "super_nova",
+            "color": "cyan",
+            "banned" : "false"
+        }
+    },
+    
+    "user" : {
+        "thesaderror" : {
+            "token": "nax|-dZNKM$7d7w9K9QUMI66h34eZR1OPt*5Bcbm3A94Zx!@v&DzCJo|||thesaderror",
+            "nickname": "thesaderror",
+            "role": "void",
+            "color": "red",
+            "banned" : "false"
+        },
+        "zed" : {
+            "token" : "nax|-fu3NojpltRbG0gnlTnSecu8R8f7Ux!C39W6fB&2ZaH7bBMT*qa|||zed",
+            "nickname": "zed",
+            "role": "super_nova",
+            "color": "cyan",
+            "banned" : "false"
+        }
+    }
+}
